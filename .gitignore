@@ -5,3 +5,5 @@ ADOR - Data
 build
 dist
 cacib.egg-info
+# ignore all pycache in all directories
+**/__pycache__/
