@@ -1,0 +1,4 @@
+spacy
+pymupdf
+transformers
+python-docx
