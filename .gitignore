@@ -1,0 +1,7 @@
+.venv
+.vscode
+chat_fine_tune.py
+ADOR - Data
+build
+dist
+cacib.egg-info
