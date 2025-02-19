@@ -38,7 +38,7 @@ class FinancialTerms(BaseModel):
             )
 
 
-def extract_table_key_value_pairs(docx_path):
+def extract_table_key_value_pairs(docx_path: str) -> dict:
     """
     This function extracts key-value pairs from tables in a .docx file.
     This requires knowing the structure of the tables in the document to be
