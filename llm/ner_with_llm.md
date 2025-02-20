@@ -102,7 +102,7 @@ $Precision = \frac{TP}{TP + FP}$, is the ratio of correctly predicted positive o
 
 Recall = $\frac{TP}{(TP + FN) }$, is the ratio of correctly predicted positive observations to the all observations in actual class.
 
-F1 Score = 2 \cdot \frac{Precision \cdot Recall}{Precision + Recall}$
+F1 Score = $2 \cdot \frac{Precision \cdot Recall}{Precision + Recall}$
 
 Where TP = True Positives, FP = False Positives, FN = False Negatives.
 
